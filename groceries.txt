@@ -2,3 +2,4 @@ juice
 potatoes
 fish
 butter
+eggs
